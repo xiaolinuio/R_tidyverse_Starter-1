@@ -1,2 +1,3 @@
-# R_tidyverse_workshop
-This repository contains all necessary elements to setup a Carpentry@UiO tidyverse workshop
+# Carpentry@UiO
+## R tidyverse workshop
+This repository contains all necessary elements to setup a Carpentry@UiO R tidyverse workshop
